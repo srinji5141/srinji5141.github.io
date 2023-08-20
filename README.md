@@ -1,16 +1,11 @@
-# Your Name's Portfolio
+# Srinjana's Personal Website 
 
-Welcome to my personal portfolio! I'm [Your Name], a [Your Profession or Field] passionate about [Your Interests]. Here, you'll find information about my projects, academic papers, and more.
+Hi there! My name is Srinjana Sriram and I'm an undergraduate Math/CS student, at UCLA. I'm passionate about problem-solving, amongst other things. Over here, you'll be able to see some of my past projects, papers and interests. Feel free to explore and find out a little bit more about who I am and what I like to do.
 
-## About Me
-
-- **Name**: Your Name
-- **Location**: Your City, Country
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Website**: [Your Personal Website](https://www.yourwebsite.com)
-
-[Optional: Add a brief introduction about yourself, your career goals, and your passion for your field.]
+- [Projects](#projects)
+- [Papers](#papers)
+- [Interests](#interests)
+- [Connect](#contact)
 
 ## Projects
 
@@ -27,7 +22,7 @@ Welcome to my personal portfolio! I'm [Your Name], a [Your Profession or Field] 
 
 ...
 
-## Academic Papers
+## Papers
 
 ### Paper 1: Title of Paper
 
@@ -44,11 +39,17 @@ Welcome to my personal portfolio! I'm [Your Name], a [Your Profession or Field] 
 
 [Share your personal interests, hobbies, or activities outside of your professional life.]
 
-## Blog
-
 [Optional: If you maintain a blog, you can provide a link here.]
 
-## Contact
+## Connect
+
+- **Name**: Srinjana Sriram
+- **Email**: srinjana.sriram@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/srinjana-sriram/
+- **GitHub**: https://github.com/srinji5141
+- **Instagram**: https://www.instagram.com/srinjana_sriram/  
+
+[Optional: Add a brief introduction about yourself, your career goals, and your passion for your field.]
 
 Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
