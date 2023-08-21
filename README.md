@@ -50,7 +50,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 ### Amazon Web Services Innovation Challenge Final Presentation
 Won 1st Place
 
-As part of the Data Rangers team, for the AWS Innovation Challenge, we developed a data-driven gamified social media platform for the LA 2028 Olympics. Our solution aimed to address declining viewership by engaging users in daily challenges, real-time trivia, and community leaderboards.
+As part of the Data Rangers team, for the AWS Innovation Challenge, I was able to develop a data-driven gamified social media platform for the LA 2028 Olympics. Our solution aimed to address declining viewership by engaging users in daily challenges, real-time trivia, and community leaderboards.
 
 Our pitch deck included a problem statement, a [Figma mockup](https://www.figma.com/proto/Fd5rzxMQhipRqesRBQ11u2/MedalUp?type=design&node-id=1-3348&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3348) of our application detailing the user journery, as well as a data pipeline explaining how we would attempt to create custom daily challenges. It also featured a market analysis, a business plan, and an implementation timeline.
 
@@ -60,7 +60,12 @@ We had the honor of presenting our application at the LA2028 office and securing
 <img width="1397" alt="Screenshot 2023-08-20 at 7 35 30 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/44c75d06-01d1-41b3-ba9b-1887714976d1">
 
 ### Boston Consulting Group Case Competition Final Presentation
-5th Place
+Won 5th Place
+
+As part of BCG's annual case competition at UCLA, my team and I evaluated growth opportunities within the US video game industry. More specifically, we focused on whether Blizzard Entertainment should venture into the US streaming industry through a TV adaptation of their beloved game, Overwatch.
+
+Our presentation included a thorough industry SWOT analysis, a comprehensive examination of Blizzard Entertainment and its competitors, and a case study of Arcane. We were lucky enough to make it to the final round of the case competition, where we presented our findings to a panel of BCG judges.
+
 [BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390488/Srinjana_Sriram_FR.pdf)
 <img width="1396" alt="Screenshot 2023-08-20 at 7 37 19 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/29672b96-69d8-4d97-8830-7b01f0acd572">
 [BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390493/BCGxUconsultingR1.pdf)
@@ -68,6 +73,7 @@ We had the honor of presenting our application at the LA2028 office and securing
 
 ### BruinLabs Product and Business Competition Final Presentation
 3rd Place
+
 [BL-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390497/BruinLabs.Team.8.SWAP.Pitch.Deck.pdf)
 <img width="1467" alt="Screenshot 2023-08-20 at 7 41 26 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0ccc1e00-e45f-4321-b4cf-a6a55b8b8877">
 
