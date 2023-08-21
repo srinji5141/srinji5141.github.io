@@ -43,7 +43,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 ### Mathematics: The foundation of the universe 
 
 - **Abstract**: Provide a brief abstract of your paper.
-- **Link**: [Mathematics_ The Foundation of the Universe_Draft_2.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
+- **Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
 
 ## Pitch Decks and Presentations 👩🏽‍🎤 🎤
 
