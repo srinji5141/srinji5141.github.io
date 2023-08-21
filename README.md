@@ -27,8 +27,9 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 
 ### Cobb Douglas Function: Optimising **student happiness** based on play time and study time
 
-- **Abstract**: Provide a brief abstract of your paper.
-- **Link**:[Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
+Hoping to model optimization through multivariable calculus, I embarked on a personal journey of answering, how we can achieve work-life balance. Drawing from economics' concept of utility functions, I explored mathematical approaches to optimize the satisfaction of students with different study routines. Through data collection and mathematical modeling, I used derivatives, contour lines, and the Lagrange multiplier, to offer insights into managing our personal and professional lives.
+
+**Link**: [Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
   
 ### Queueing Theory: Optimising wait time and queue length at **boba stores**
 
@@ -68,11 +69,12 @@ Our presentation included a thorough industry SWOT analysis, a comprehensive exa
 
 [BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390488/Srinjana_Sriram_FR.pdf)
 <img width="1396" alt="Screenshot 2023-08-20 at 7 37 19 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/29672b96-69d8-4d97-8830-7b01f0acd572">
+
 [BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390493/BCGxUconsultingR1.pdf)
 <img width="1397" alt="Screenshot 2023-08-20 at 7 40 24 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/977bea41-9d93-4bb3-985b-ae2cf1afa821">
 
 ### BruinLabs Product and Business Competition Final Presentation
-3rd Place
+Won 3rd Place
 
 As part of the BruinLabs summer program, my friends and I collaborated on SWAP: a web application designed for crowdsourced item borrowing. Through the program, we learned the nuances of entreprenuership and product development.
 
