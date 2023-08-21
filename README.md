@@ -24,7 +24,7 @@ Hi there! My name is Srinjana Sriram and I'm an undergraduate Math/CS student, a
 - [Pitch Decks and Presentations](#pitch-decks-and-presentations)
 - [Problem-Solving](#problem-solving)
 - [Hobbies](#hobbies)
-- [Connect with Me](#connect-with-me)
+- [Connect with Me](#Connect-with-Me)
 
 ## Projects
 
