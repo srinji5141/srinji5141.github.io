@@ -25,10 +25,25 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 
 ## Papers and Publications 👩🏽‍🎓 📝
 
-### Paper 1: Title of Paper
+### Cobb Douglas Function: Optimising **student happiness** based on play time and study time
 
 - **Abstract**: Provide a brief abstract of your paper.
-- **Link**: [Link to Paper PDF](https://www.example.com/paper1.pdf)
+- **Link**:[Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
+  
+### Queueing Theory: Optimising wait time and queue length at **boba stores**
+
+- **Abstract**: Provide a brief abstract of your paper.
+- **Link**:[Queueing_Theory.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390672/sriram.SRINJANA.MAAHL.IA.Mathexploration.May2021.pdf)
+
+### Regulation VS Deregulation: What is the optimal level of government intervention, in the Singaporean market?
+
+- **Abstract**: Provide a brief abstract of your paper.
+- **Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
+
+### Mathematics: The foundation of the universe 
+
+- **Abstract**: Provide a brief abstract of your paper.
+- **Link**: [Mathematics_ The Foundation of the Universe_Draft_2.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
 
 ## Pitch Decks and Presentations 👩🏽‍🎤 🎤
 
