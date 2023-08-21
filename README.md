@@ -33,14 +33,15 @@ Hoping to model optimization through multivariable calculus, I embarked on a per
   
 ### Queueing Theory: Optimising wait times at **boba stores**
 
-Inspired by my love for boba, I decided to use probability and statistics to enhance the boba store experience. Through using the M/M/1 model from queueing theory, a type of stochastic process, this paper aims to answer the question: can Mathematics expedite wait times at boba stores?
+Motivated by my love for boba, I decided to use probability and statistics to enhance the boba store experience. Through using the M/M/1 model from queueing theory, a type of stochastic process, this paper aims to answer the question: can Mathematics expedite wait times at boba stores?
 
 **Link**: [Queueing_Theory.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390672/sriram.SRINJANA.MAAHL.IA.Mathexploration.May2021.pdf)
 
 ### Regulation VS Deregulation: What is the optimal level of government intervention, in the Singaporean market?
 
-- **Abstract**: Provide a brief abstract of your paper.
-- **Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
+Inspired by John Komlos' philosophy of humanistic capitalism, my partner and I explored the intricacies of protecting Singapore's competition and consumers. In an age of digitsation and globalisation, this paper uncovers potential threats and proposes a three-pronged solution of monitoring, consultation, and regulation. Through case studies, we underscore the need for diligent oversight within Singapore's unique policy framework, which harmonizes state and market efforts.
+
+**Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
 
 ### Mathematics: The foundation of the universe 
 
