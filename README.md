@@ -46,10 +46,10 @@ Hi there! My name is Srinjana Sriram and I'm an undergraduate Math/CS student, a
 Feel free to contact me via email at or connect with me on Linkedin.
 
 - **Email**: srinjana.sriram@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/srinjana-sriram/] (https://www.linkedin.com/in/srinjana-sriram/)
-- **GitHub**: [https://github.com/srinji5141] (https://github.com/srinji5141)
-- **Wordpress**: [https://srinjana.wordpress.com/] (https://srinjana.wordpress.com/)
-- **Instagram**: [https://www.instagram.com/srinjana_sriram/] (https://www.instagram.com/srinjana_sriram/)
+- **LinkedIn**: https://www.linkedin.com/in/srinjana-sriram/
+- **GitHub**: https://github.com/srinji5141
+- **Wordpress**: https://srinjana.wordpress.com/ 
+- **Instagram**: https://www.instagram.com/srinjana_sriram/
   
 Thank you for visiting my personal website. I hope you enjoyed!
 
