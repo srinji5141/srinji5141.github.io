@@ -74,6 +74,8 @@ Our presentation included a thorough industry SWOT analysis, a comprehensive exa
 ### BruinLabs Product and Business Competition Final Presentation
 3rd Place
 
+As part of the BruinLabs summer program, my friends and I collaborated on SWAP: a web application designed for crowdsourced item borrowing. Through the program, we learned the nuances of entreprenuership and product development.
+
 [BL-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390497/BruinLabs.Team.8.SWAP.Pitch.Deck.pdf)
 <img width="1467" alt="Screenshot 2023-08-20 at 7 41 26 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0ccc1e00-e45f-4321-b4cf-a6a55b8b8877">
 
