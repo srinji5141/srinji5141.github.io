@@ -48,7 +48,14 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 ## Pitch Decks and Presentations 👩🏽‍🎤 🎤
 
 ### Amazon Web Services Innovation Challenge Final Presentation
-1st Place
+Won 1st Place
+
+As part of the Data Rangers team, for the AWS Innovation Challenge, we developed a data-driven gamified social media platform for the LA 2028 Olympics. Our solution aimed to address declining viewership by engaging users in daily challenges, real-time trivia, and community leaderboards.
+
+Our pitch deck included a problem statement, a [Figma mockup](https://www.figma.com/proto/Fd5rzxMQhipRqesRBQ11u2/MedalUp?type=design&node-id=1-3348&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3348) of our application detailing the user journery, as well as a data pipeline explaining how we would attempt to create custom daily challenges. It also featured a market analysis, a business plan, and an implementation timeline.
+
+We had the honor of presenting our application at the LA2028 office and securing incubation at the AWS Cloud Innovation Center.
+
 [AWS-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390428/Team5-DataRangers-Pitch-Deck.pdf)
 <img width="1397" alt="Screenshot 2023-08-20 at 7 35 30 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/44c75d06-01d1-41b3-ba9b-1887714976d1">
 
