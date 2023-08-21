@@ -73,4 +73,3 @@ Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with 
 - **Instagram**: https://www.instagram.com/srinjana_sriram/
   
 Thank you for visiting my personal website. I hope you enjoyed!
-
