@@ -16,14 +16,14 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 ## Projects 👩🏽‍💻📟
 
 ### Project Names
-1. Spotify
-2. Arduino
-3. SentiBot
-4. ASA
-5. Verkada
-6. LinkedIn Webscraper
-7. (World Happiness Index)
-8. Quotes Generator
+1. ACM Web Search and Data Mining Cup 2019: Spotify Sequential Skip Prediction Challenge
+2. LED Greeter (Arduino)
+3. LAHacks 2023: SentiBot
+4. DataFest 2023: ASA
+5. Verkada Coding Challenge (Oculus)
+6. Professional Connections Management Program (LinkedIn Webscraper)
+7. Statistics Club, UCLA: World Happiness Index Report
+8. Motivational Quotes Generator (Virtual Cottage)
    
 - **Description**: Briefly describe the project.
 - **Repository**: [Link to GitHub Repository](https://github.com/yourusername/project1)
@@ -95,6 +95,8 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 [BL-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390497/BruinLabs.Team.8.SWAP.Pitch.Deck.pdf)
 <img width="1467" alt="Screenshot 2023-08-20 at 7 41 26 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0ccc1e00-e45f-4321-b4cf-a6a55b8b8877">
 
+⏪ [Menu](#menu)
+
 ## Problem-Solving 👩🏽‍🚀🔭
 
 CodeSprint LA 2023
@@ -109,6 +111,8 @@ CodeSprint LA 2023
 
 <a href="https://ibb.co/9syDSgz"><img src="https://i.ibb.co/9syDSgz/IMG-6081.jpg" alt="IMG-6081" border="0"></a> <a href="https://ibb.co/y0MbZpt"><img src="https://i.ibb.co/y0MbZpt/IMG-6082.jpg" alt="IMG-6082" border="0"></a> <a href="https://ibb.co/bHFRRwt"><img src="https://i.ibb.co/bHFRRwt/IMG-6083.jpg" alt="IMG-6083" border="0"></a> <a href="https://ibb.co/xhkVC9M"><img src="https://i.ibb.co/xhkVC9M/IMG-6084.jpg" alt="IMG-6084" border="0"></a>
 
+⏪ [Menu](#menu)
+
 ## Connect with Me 🤳🏾☎️
 
 Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/srinjana-sriram/).
@@ -118,7 +122,9 @@ Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with 
 - **GitHub**: https://github.com/srinji5141
 - **Wordpress**: https://srinjana.wordpress.com/ 
 - **Instagram**: https://www.instagram.com/srinjana_sriram/
-  
+
+⏪ [Menu](#menu)
+
 Thank you for visiting my personal website. I hope you enjoyed!
 
 ![mw4y58i658981](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/08bd7761-5a2a-4aad-ac81-94780c514374)
