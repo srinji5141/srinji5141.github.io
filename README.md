@@ -5,11 +5,11 @@
 Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS student, at UCLA. I'm passionate about problem-solving, amongst other things. Over here, you'll be able to find more information about some of my past projects and other interests. Feel free to explore and find out a little bit more about _who I am_ and _what I like to do_.
 
 - [Projects](#projects-)
-- [Papers and Publications](#papers-and-publications)
-- [Pitch Decks and Presentations](#pitch-decks-and-presentations)
-- [Problem-Solving 👩🏽‍🚀 🔭](#problem-solving)
-- [Hobbies 👩🏽‍🎨 🖌️](#hobbies)
-- [Connect with Me 🤳🏾 ☎️](#connect-with-me)
+- [Papers and Publications](#papers-and-publications-)
+- [Pitch Decks and Presentations](#pitch-decks-and-presentations-)
+- [Problem-Solving](#problem-solving-)
+- [Hobbies](#hobbies-)
+- [Connect with Me](#connect-with-me-)
 
 ## Projects 👩🏽‍💻📟
 
@@ -25,7 +25,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-## Papers and Publications 👩🏽‍🎓 📝
+## Papers and Publications 👩🏽‍🎓📝
 
 ### Cobb Douglas Function: Optimising **student happiness** based on play time and study time
 
@@ -50,7 +50,7 @@ Inspired by John Komlos' philosophy of humanistic capitalism, my partner and I e
 - **Abstract**: Provide a brief abstract of your paper.
 - **Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
 
-## Pitch Decks and Presentations 👩🏽‍🎤 🎤
+## Pitch Decks and Presentations 👩🏽‍🎤🎤
 
 ### Amazon Web Services Innovation Challenge Final Presentation
 Won 1st Place
@@ -85,9 +85,9 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 [BL-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390497/BruinLabs.Team.8.SWAP.Pitch.Deck.pdf)
 <img width="1467" alt="Screenshot 2023-08-20 at 7 41 26 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0ccc1e00-e45f-4321-b4cf-a6a55b8b8877">
 
-## Problem-Solving 👩🏽‍🚀 🔭
+## Problem-Solving 👩🏽‍🚀🔭
 
-## Hobbies 👩🏽‍🎨 🖌️
+## Hobbies 👩🏽‍🎨🖌️
 
 🎨 Growing up, I did a lot of art which I like to post about, from time to time, on my [WordPress](https://srinjana.wordpress.com/author/srinjana/).
 
@@ -97,7 +97,7 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 
 <a href="https://ibb.co/9syDSgz"><img src="https://i.ibb.co/9syDSgz/IMG-6081.jpg" alt="IMG-6081" border="0"></a> <a href="https://ibb.co/y0MbZpt"><img src="https://i.ibb.co/y0MbZpt/IMG-6082.jpg" alt="IMG-6082" border="0"></a> <a href="https://ibb.co/bHFRRwt"><img src="https://i.ibb.co/bHFRRwt/IMG-6083.jpg" alt="IMG-6083" border="0"></a> <a href="https://ibb.co/xhkVC9M"><img src="https://i.ibb.co/xhkVC9M/IMG-6084.jpg" alt="IMG-6084" border="0"></a>
 
-## Connect with Me 🤳🏾 ☎️
+## Connect with Me 🤳🏾☎️
 
 Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/srinjana-sriram/).
 
