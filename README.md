@@ -8,7 +8,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 - [Papers and Publications](#papers-and-publications-)
 - [Pitch Decks and Presentations](#pitch-decks-and-presentations-)
 - [Problem-Solving](#problem-solving-)
-- [Hobbies ](#hobbies-)
+- [Hobbies](#hobbies)
 - [Connect with Me](#connect-with-me-)
 
 ## Projects 👩🏽‍💻📟
@@ -89,8 +89,7 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 
 filler text
 
-## Hobbies 👩🏽‍🎨🖌️
-
+## Hobbies
 🎨 Growing up, I did a lot of art which I like to post about, from time to time, on my [WordPress](https://srinjana.wordpress.com/author/srinjana/).
 
 <a href="https://ibb.co/qDhk78G"><img src="https://i.ibb.co/qDhk78G/Screenshot-2023-08-20-at-6-29-57-PM.png" alt="Screenshot-2023-08-20-at-6-29-57-PM" border="0"></a> <a href="https://ibb.co/MpjYBcd"><img src="https://i.ibb.co/MpjYBcd/Screenshot-2023-08-20-at-6-29-22-PM.png" alt="Screenshot-2023-08-20-at-6-29-22-PM" border="0"></a> <a href="https://ibb.co/nzP08L3"><img src="https://i.ibb.co/nzP08L3/Screenshot-2023-08-20-at-6-29-31-PM.png" alt="Screenshot-2023-08-20-at-6-29-31-PM" border="0"></a> <a href="https://ibb.co/rmdQqNG"><img src="https://i.ibb.co/rmdQqNG/Screenshot-2023-08-20-at-6-29-44-PM.png" alt="Screenshot-2023-08-20-at-6-29-44-PM" border="0"></a>
