@@ -8,7 +8,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 - [Papers and Publications](#papers-and-publications-)
 - [Pitch Decks and Presentations](#pitch-decks-and-presentations-)
 - [Problem-Solving](#problem-solving-)
-- [Hobbies](#hobbies)
+- [Hobbies](#hobbies-)
 - [Connect with Me](#connect-with-me-)
 
 ## Projects 👩🏽‍💻📟
