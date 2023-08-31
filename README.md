@@ -4,14 +4,14 @@
 
 Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS student, at UCLA. I'm passionate about problem-solving, amongst other things. Over here, you'll be able to find more information about some of my past projects and other interests. Feel free to explore and find out a little bit more about _who I am_ and _what I like to do_.
 
-- [Projects](#projects)
+- [Projects](#projects-)
 - [Papers and Publications](#papers-and-publications)
 - [Pitch Decks and Presentations](#pitch-decks-and-presentations)
 - [Problem-Solving 👩🏽‍🚀 🔭](#problem-solving)
 - [Hobbies 👩🏽‍🎨 🖌️](#hobbies)
 - [Connect with Me 🤳🏾 ☎️](#connect-with-me)
 
-## Projects
+## Projects 👩🏽‍💻📟
 
 ### Project 1: Project Name
 
