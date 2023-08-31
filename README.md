@@ -11,7 +11,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 - [Hobbies 👩🏽‍🎨 🖌️](#hobbies)
 - [Connect with Me 🤳🏾 ☎️](#connect-with-me)
 
-## Projects👩🏽‍💻📟
+## Projects
 
 ### Project 1: Project Name
 
