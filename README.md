@@ -126,11 +126,11 @@ As part of BCG's annual case competition at UCLA, my team and I evaluated growth
 
 Our presentation included a thorough industry SWOT analysis, a comprehensive examination of Blizzard Entertainment and its competitors, and a case study of Arcane. We were lucky enough to make it to the final round of the case competition, where we presented our findings to a panel of BCG judges.
 
-[BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390488/Srinjana_Sriram_FR.pdf)
+[BCG_R2-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390488/Srinjana_Sriram_FR.pdf)
 <img width="1396" alt="Screenshot 2023-08-20 at 7 37 19 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/29672b96-69d8-4d97-8830-7b01f0acd572">
 
 [BCG_R1-Deck.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390493/BCGxUconsultingR1.pdf)
-<img width="1397" alt="Screenshot 2023-08-20 at 7 40 24 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/977bea41-9d93-4bb3-985b-ae2cf1afa821">
+<img width="1396" alt="Screenshot 2023-09-01 at 3 35 40 AM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0c9f838f-0e1e-4c22-99cc-7a0eb32f031a">
 
 ### BruinLabs Product and Business Competition Final Presentation
 Won 3rd Place
@@ -143,8 +143,6 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 ⏪ [Menu](#menu)
 
 ## Problem-Solving and other Educational Resources 👩🏽‍🚀🔭
-
-Work in Progress...
 
 ### Acing the IBDP (International Baccalaureate Diploma Programme)
 
