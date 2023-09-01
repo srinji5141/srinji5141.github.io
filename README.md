@@ -35,7 +35,7 @@ For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/
 
 ![image](https://github.com/srinji5141/EchoGreet/assets/105142919/0190b8ea-35eb-4f8e-9dc5-22d5fe8e7bc0)
 
-For the complete README.md, visit [https://github.com/srinji5141/EchoGreet/edit/main/README.md](https://github.com/srinji5141/EchoGreet/edit/main/README.md)
+For the complete README.md, visit [https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md](https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md)
 
 **Demo**
 
