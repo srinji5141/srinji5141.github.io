@@ -33,7 +33,7 @@ LiquidCrystal lcd(3, 2, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, 
 ...
 ```
 
-For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino](https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino)
+For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino](https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/helloworld.ino)
 
 ![image](https://github.com/srinji5141/EchoGreet/assets/105142919/0190b8ea-35eb-4f8e-9dc5-22d5fe8e7bc0)
 
@@ -69,15 +69,25 @@ To watch a full demonstration of SentiBot, visit [https://devpost.com/software/s
 
 ### Project 4: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
-### Project 5: Professional Connections Management Program
-
-### Project 6: World Happiness Index Report, UCLA Statistics Club
+### Project 5: Professional Contacts Management Program
 
 **Description**
 
+To address a personal challenge of managing professional contacts, I developed a custom LinkedIn Web Scraper. This tool automates dynamic website navigation, and extracts the biodata of over 500 "Connections" within the LinkedIn "My Network" section. It then conveniently organizes the collected information into a .tsv file. This .tsv file acted as an effective resource for me, as it helped me keep track of my professional interactions, such as cold-emailing etc.
+
 **Repository**
 
-**Demo**
+```python
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+...
+```
+
+For the complete code, visit [https://github.com/srinji5141/Professional-Contacts-Management-Program](https://github.com/srinji5141/Professional-Contacts-Management-Program)
+
+Feel free to run the above code, with your login details, and download all your contacts' details into a .tsv file, for simple professional contacts management!
+
+### Project 6: World Happiness Index Report, UCLA Statistics Club
 
 ### Project 7: MidnightMindfulness.com
 
