@@ -15,11 +15,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 
 ## Projects 👩🏽‍💻📟
 
-### Project 1: Spotify Sequential Skip Prediction Challenge (ACM Web Search and Data Mining Cup 2019), UCLA National Student Data Corps
-
-Work in Progress...
-
-### Project 2: EchoGreet, UCLA MakerSpace
+### Project 1: EchoGreet, UCLA MakerSpace
 
 **Description**
 
@@ -43,7 +39,7 @@ For the complete circuit design, visit [https://github.com/srinji5141/EchoGreet-
 
 https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a5-40c1-9f54-dfedd56077db
 
-### Project 3: SentiBot, LAHacks 2023
+### Project 2: SentiBot, LAHacks 2023
 
 **Description**
 
@@ -67,9 +63,9 @@ For the complete code snippet, visit [https://github.com/srinji5141/SentiBot-LAH
 
 To watch a full demonstration of SentiBot, visit [https://devpost.com/software/sentibot-un7qmy](https://devpost.com/software/sentibot-un7qmy)
 
-### Project 4: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
+### Project 3: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
-### Project 5: Professional Contacts Management Program
+### Project 4: Professional Contacts Management Program
 
 **Description**
 
@@ -87,9 +83,9 @@ For the complete code, visit [https://github.com/srinji5141/Professional-Contact
 
 Feel free to run the above code, with your login details, and download all your contacts' details into a .tsv file, for simple professional contacts management!
 
-### Project 6: World Happiness Index Report, UCLA Statistics Club
+### Project 5: World Happiness Index Report, UCLA Statistics Club
 
-### Project 7: MidnightMindfulness.com
+### Project 6: MidnightMindfulness.com
 
 **Description**
 
