@@ -37,7 +37,7 @@ For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/
 
 ![image](https://github.com/srinji5141/EchoGreet/assets/105142919/0190b8ea-35eb-4f8e-9dc5-22d5fe8e7bc0)
 
-For the complete README.md, visit [https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md](https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md)
+For the complete circuit design, visit [https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md](https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md)
 
 **Demo**
 
@@ -45,11 +45,39 @@ https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a
 
 ### Project 3: SentiBot, LAHacks 2023
 
+**Description**
+
+During LAHacks 2023, my team and I built a sentiment analysis trading bot, which automatically recommends trading options based on user-specified market and asset classes. It works by webscraping for recent articles published, based on those specifications, and then classifying them, according to their positivity, using Cohere's NLP models.
+
+**Repository**
+
+The following code snippet trains Cohere's NLP Classification model to identify whether webscraped article titles are about company stocks or not.
+
+```python
+import cohere
+from cohere.responses.classify import Example
+...
+```
+
+For the complete code snippet, visit [https://github.com/srinji5141/SentiBot-LAHacks-2023/edit/main/SentiBot.py](https://github.com/srinji5141/SentiBot-LAHacks-2023/edit/main/SentiBot.py)
+
+**Demo**
+
+<img width="753" alt="SentiBot" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/9156973a-04cd-42d2-96fc-d81232b83a7f">
+
+To watch a full demonstration of SentiBot, visit [https://devpost.com/software/sentibot-un7qmy](https://devpost.com/software/sentibot-un7qmy)
+
 ### Project 4: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
 ### Project 5: Professional Connections Management Program
 
 ### Project 6: World Happiness Index Report, UCLA Statistics Club
+
+**Description**
+
+**Repository**
+
+**Demo**
 
 ### Project 7: MidnightMindfulness.com
 
