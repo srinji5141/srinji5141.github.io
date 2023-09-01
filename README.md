@@ -30,9 +30,8 @@ I made a clap-activated LCD greeting panel, using an Arduino Uno, a few jumper w
 LiquidCrystal lcd(3, 2, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, enable, d4, d5, d6, d7)
 ...
 ```
-For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino](https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino)
 
-Wiring Diagram:
+For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino](https://github.com/srinji5141/EchoGreet/blob/main/helloworld.ino)
 
 ![image](https://github.com/srinji5141/EchoGreet/assets/105142919/0190b8ea-35eb-4f8e-9dc5-22d5fe8e7bc0)
 
