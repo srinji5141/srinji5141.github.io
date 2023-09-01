@@ -17,11 +17,13 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 
 ### Project 1: Spotify Sequential Skip Prediction Challenge (ACM Web Search and Data Mining Cup 2019), UCLA National Student Data Corps
 
+Work in Progress...
+
 ### Project 2: EchoGreet, UCLA MakerSpace
 
 **Description**
 
-I made a clap-activated LCD greeting panel, using an Arduino Uno, a few jumper wires, resistors, and capacitors, a breadboard, a LM358 op-amp, an electret microphone, and a gwt-c1627a-rgb v1.1 liquid crystal display.
+While exploring the UCLA MakerSpace, I made a clap-activated LCD greeting panel, using an Arduino Uno, a few jumper wires, resistors, and capacitors, a breadboard, a LM358 op-amp, an electret microphone, and a gwt-c1627a-rgb v1.1 liquid crystal display.
 
 **Repository**
 
@@ -41,12 +43,35 @@ For the complete README.md, visit [https://github.com/srinji5141/EchoGreet-UCLA-
 
 https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a5-40c1-9f54-dfedd56077db
 
-3. LAHacks 2023: SentiBot
-4. DataFest 2023: ASA
-5. Verkada Coding Challenge (Oculus)
-6. Professional Connections Management Program (LinkedIn Webscraper)
-7. Statistics Club, UCLA: World Happiness Index Report
-8. Motivational Quotes Generator (Virtual Cottage)
+### Project 3: SentiBot, LAHacks 2023
+
+### Project 4: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
+
+### Project 5: Professional Connections Management Program
+
+### Project 6: World Happiness Index Report, UCLA Statistics Club
+
+### Project 7: MidnightMindfulness.com
+
+**Description**
+
+In order to combat the post covid-19 effect, I built a randomised intention-setting website as a creative project to play around with, when feeling bouts of demotivation or lack of focus.  
+
+**Repository**
+
+```javascript
+let intention = [" Take it easy 😎 ", " Be present and connected 🎁 ", 
+" Set a goal for today 🦾 ", " Forgive others and yourself 🫀 ", 
+...
+```
+
+For the complete code, visit [https://github.com/srinji5141/MidnightMindfulness.com](https://github.com/srinji5141/MidnightMindfulness.com)
+
+**Demo**
+
+<img width="1470" alt="MidnightMindfulness" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0d4ba83d-d774-4c8e-9627-acd1efc14719">
+
+To play around with the website, visit [https://srinji5141.github.io/MidnightMindfulness.com/](https://srinji5141.github.io/MidnightMindfulness.com/)
 
 ### Technologies 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
@@ -117,7 +142,7 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 
 ## Problem-Solving 👩🏽‍🚀🔭
 
-CodeSprint LA 2023
+Work in Progress...
 
 ## Hobbies 👩🏽‍🎨🖌️
 
