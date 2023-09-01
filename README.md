@@ -9,7 +9,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 - [Projects](#projects-)
 - [Papers and Publications](#papers-and-publications-)
 - [Pitch Decks and Presentations](#pitch-decks-and-presentations-)
-- [Problem-Solving](#problem-solving-)
+- [Problem-Solving and other Resources](#problem-solving-and-other-resources-)
 - [Hobbies](#hobbies-)
 - [Connect with Me](#connect-with-me-)
 
@@ -45,6 +45,12 @@ https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a
 
 ### Project 3: SentiBot, LAHacks 2023
 
+**Description**
+
+**Repository**
+
+**Demo**
+
 ### Project 4: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
 ### Project 5: Professional Connections Management Program
@@ -68,8 +74,6 @@ let intention = [" Take it easy 😎 ", " Be present and connected 🎁 ",
 For the complete code, visit [https://github.com/srinji5141/MidnightMindfulness.com](https://github.com/srinji5141/MidnightMindfulness.com)
 
 **Demo**
-
-<img width="1470" alt="MidnightMindfulness" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0d4ba83d-d774-4c8e-9627-acd1efc14719">
 
 To play around with the website, visit [https://srinji5141.github.io/MidnightMindfulness.com/](https://srinji5141.github.io/MidnightMindfulness.com/)
 
@@ -100,8 +104,9 @@ Inspired by John Komlos' philosophy of humanistic capitalism, my partner and I e
 
 ### Mathematics: The foundation of the universe 
 
-- **Abstract**: Provide a brief abstract of your paper.
-- **Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
+Motivated to enhance student engagement with Math, I created this Math-themed colouring booklet to kindle a sense of curiosity and wonder about the vast and fascinating world of Mathematics, amongst young learners.
+
+**Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
 
 ## Pitch Decks and Presentations 👩🏽‍🎤🎤
 
@@ -140,9 +145,11 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 
 ⏪ [Menu](#menu)
 
-## Problem-Solving 👩🏽‍🚀🔭
+## Problem-Solving and other Resources 👩🏽‍🚀🔭
 
 Work in Progress...
+
+⏪ [Menu](#menu)
 
 ## Hobbies 👩🏽‍🎨🖌️
 
@@ -160,11 +167,11 @@ Work in Progress...
 
 Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/srinjana-sriram/).
 
-- **E-mail**: srinjana.sriram@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/srinjana-sriram/
-- **GitHub**: https://github.com/srinji5141
-- **Wordpress**: https://srinjana.wordpress.com/ 
-- **Instagram**: https://www.instagram.com/srinjana_sriram/
+- **E-mail**: [srinjana.sriram@gmail.com](srinjana.sriram@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/srinjana-sriram/](https://www.linkedin.com/in/srinjana-sriram/)
+- **GitHub**: [https://github.com/srinji5141](https://github.com/srinji5141)
+- **Wordpress**: [https://srinjana.wordpress.com/](https://srinjana.wordpress.com/) 
+- **Instagram**: [https://www.instagram.com/srinjana_sriram/](https://www.instagram.com/srinjana_sriram/)
 
 ⏪ [Menu](#menu)
 
