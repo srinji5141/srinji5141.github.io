@@ -65,6 +65,10 @@ To watch a full demonstration of SentiBot, visit [https://devpost.com/software/s
 
 ### Project 3: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
+Work in Progress
+
+**Skills**: data pre-processing, data analysis, summary statistics, data visualisation, text mining, data manipulation etc.
+
 ### Project 4: Professional Contacts Management Program
 
 **Description**
@@ -84,6 +88,8 @@ For the complete code, visit [https://github.com/srinji5141/Professional-Contact
 Feel free to run the above code, with your login details, and download all your contacts' details into a .tsv file, for simple professional contacts management!
 
 ### Project 5: World Happiness Index Report, UCLA Statistics Club
+
+**Skills**: data pre-processing, data analysis, summary statistics, data visualisation, data manipulation, linear regression, principal component analysis, k-means clustering, etc.
 
 ### Project 6: MidnightMindfulness.com
 
