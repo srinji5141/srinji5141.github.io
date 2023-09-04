@@ -1,7 +1,6 @@
 # 👩🏽‍🔧 Srinjana's Personal Website ![fa057582f44b477206a32e255bb8ca18](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/961bb890-d0f9-40aa-8044-752e6160f01f)
 
-<img src=![img](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0e9b7d41-d887-4280-af5f-c9f2dff77f81)
-width=300 height=150>
+![img](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/0d23e390-e01b-4c21-8673-13bb53b63911)
 
 Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS student, at UCLA. I'm passionate about problem-solving, amongst other things. Over here, you'll be able to find more information about some of my past projects and other interests. Feel free to explore and find out a little bit more about _who I am_ and _what I like to do_.
 
