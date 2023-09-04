@@ -39,11 +39,27 @@ For the complete circuit design, visit [https://github.com/srinji5141/EchoGreet-
 
 https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a5-40c1-9f54-dfedd56077db
 
-### Project 2: SentiBot, LAHacks 2023
+### Project 2: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
 **Description**
 
-During LAHacks 2023, my team and I built a sentiment analysis trading bot, which automatically outputs trading recomendations based on user-specified market and asset classes. It works by webscraping for recently published articles, based on those specifications, and then classifying them, according to their degree of positivity, using Cohere's NLP models.
+During the 2023 ASA DataFest, my team and I explored why certain client questions experienced response time lags from laywers, on the American Bar Association's Free Legal Answers virtual advice clinic. To do this, we cleaned our dataset of unrelated, and missing data. We explored variables such as time stamps, and created more meaningful variables such as time durations. We then plotted this data in histograms, pie charts, and scatter plots to understand the geographic spread of this data. We then continued to text mine the client questions and analyse which particular questions were experiencing time lags, which we represented through word clouds
+
+**Skills**: data pre-processing, feature engineering, data analysis, summary statistics, data visualisation, text mining, data manipulation etc.
+
+**Link to Notebook**: [https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing](https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing)
+
+**Project Poster**
+
+<img width="438" alt="Screenshot 2023-09-03 at 5 27 05 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/30fc16ab-13e4-4e83-9459-2d0ef4442417">
+
+[Project Poster.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12508361/C10Boo.lean.Busters.pdf)
+
+### Project 3: SentiBot, LAHacks 2023
+
+**Description**
+
+During the 2023 LAHacks, my team and I built a sentiment analysis trading bot, which automatically outputs trading recomendations based on user-specified market and asset classes. It works by webscraping for recently published articles, based on those specifications, and then classifies them, according to their degree of positivity, using Cohere's NLP models.
 
 **Repository**
 
@@ -62,23 +78,6 @@ For the complete code snippet, visit [https://github.com/srinji5141/SentiBot-LAH
 <img width="753" alt="SentiBot" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/9156973a-04cd-42d2-96fc-d81232b83a7f">
 
 To watch a full demonstration of SentiBot, visit [https://devpost.com/software/sentibot-un7qmy](https://devpost.com/software/sentibot-un7qmy)
-
-### Project 3: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
-
-**Description**
-
-During ASA DataFest 2023, my team and I explored why certain client questions experienced response time lags from laywers, on the American Bar Association's Free Legal Answers virtual advice clinic. To do this, we cleaned our dataset of unrelated, and missing data. We explored variables such as time stamps, and created more meaningful variables such as time durations. We then plotted this data in histograms, pie charts, and scatter plots to understand the geographic spread of this client data. We then continued to text mine the client questions and analyse which particular questions were experiencing time lags, which we represented through word clouds
-
-**Skills**: data pre-processing, feature engineering, data analysis, summary statistics, data visualisation, text mining, data manipulation etc.
-
-**Link to Notebook**: [https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing](https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing)
-
-**Project Poster**
-
-<img width="438" alt="Screenshot 2023-09-03 at 5 27 05 PM" src="https://github.com/srinji5141/srinji5141.github.io/assets/105142919/30fc16ab-13e4-4e83-9459-2d0ef4442417">
-
-[C10Boo(lean)Busters.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12508361/C10Boo.lean.Busters.pdf)
-
 
 ### Project 4: Professional Contacts Management Program
 
@@ -100,7 +99,13 @@ Feel free to run the above code, with your login details, and download all your 
 
 ### Project 5: World Happiness Index Report, UCLA Statistics Club
 
+**Description**
+
+To look into international developmental metrics, my partner and I explored [Kaggle's World Happiness Report Dataset](https://www.kaggle.com/datasets/unsdsn/world-happiness). We first cleaned the dataset, and then created correlation matrices, as well as summary statistcis on metrics such as GDP per capita, life expectancy, social support etc. We also plotted histograms of happiness scores over the years, as well as over continents to understand the spread of data. Finally, we conducted some predictive analytics through linear regressions on happiness scores and GDP per capita.
+
 **Skills**: data pre-processing, data analysis, summary statistics, data visualisation, data manipulation, linear regression, principal component analysis, k-means clustering, etc.
+
+**Link to Notebook**: [https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing](https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing)
 
 ### Project 6: MidnightMindfulness.com
 
