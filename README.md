@@ -47,7 +47,7 @@ During the 2023 ASA DataFest, my team and I explored why certain client question
 
 **Skills**: data pre-processing, feature engineering, data analysis, summary statistics, data visualisation, text mining, data manipulation etc.
 
-**Link to Notebook**: [https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing](https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing)
+**Notebook Link**: [https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing](https://colab.research.google.com/drive/12J91HZHFGJDgecqVG6SmbZxZhspmF7ZB?usp=sharing)
 
 **Project Poster**
 
@@ -105,7 +105,7 @@ To look into international developmental metrics, my partner and I explored [Kag
 
 **Skills**: data pre-processing, data analysis, summary statistics, data visualisation, data manipulation, linear regression, principal component analysis, k-means clustering, etc.
 
-**Link to Notebook**: [https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing](https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing)
+**Notebook Link**: [https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing](https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing)
 
 ### Project 6: MidnightMindfulness.com
 
@@ -142,7 +142,9 @@ To play around with the website, visit [https://srinji5141.github.io/MidnightMin
 Hoping to model optimization through multivariable calculus, I embarked on a personal journey of answering, how we can achieve work-life balance. Drawing from economics' concept of utility functions, this paper explores mathematical approaches to optimize the satisfaction of students with different study routines. Through data collection and mathematical modeling, I used derivatives, contour lines, and the Lagrange multiplier, to offer insights into managing our personal and professional lives.
 
 **Download Link**: [Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
+
 **Research Gate Link**: [https://www.researchgate.net/publication/374153474_Cobb_Douglas_Function_Optimising_student_happiness_based_on_play_time_and_study_time](https://www.researchgate.net/publication/374153474_Cobb_Douglas_Function_Optimising_student_happiness_based_on_play_time_and_study_time)
+
 **DOI**: 10.13140/RG.2.2.36022.47688
   
 ### Queueing Theory: Optimising wait times at **boba stores**
@@ -150,7 +152,9 @@ Hoping to model optimization through multivariable calculus, I embarked on a per
 Motivated by my love for boba, I decided to use probability and statistics to enhance the boba store experience. Through using the M/M/1 model from queueing theory, a type of stochastic process, this paper aims to answer the question: can Mathematics expedite wait times at boba stores?
 
 **Download Link**: [Queueing_Theory.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390672/sriram.SRINJANA.MAAHL.IA.Mathexploration.May2021.pdf)
+
 **Research Gate Link:** [https://www.researchgate.net/publication/374153587_Queueing_Theory_Optimising_wait_times_at_boba_stores](https://www.researchgate.net/publication/374153587_Queueing_Theory_Optimising_wait_times_at_boba_stores)
+
 **DOI**: 10.13140/RG.2.2.29311.59042
 
 ### Regulation VS Deregulation: What is the optimal level of government intervention, in the Singaporean market?
@@ -158,14 +162,16 @@ Motivated by my love for boba, I decided to use probability and statistics to en
 Inspired by John Komlos' philosophy of humanistic capitalism, my partner and I explored the intricacies of protecting Singapore's competition and consumers. In an age of digitsation and globalisation, this paper uncovers potential threats and proposes a three-pronged solution of monitoring, consultation, and regulation. Through case studies, we underscore the need for diligent oversight within Singapore's unique policy framework, which harmonizes state and market efforts.
 
 **Download Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
+
 **Research Gate Link**: [https://www.researchgate.net/publication/374153726_Regulation_VS_Deregulation_What_is_the_optimal_level_of_government_intervention_in_the_Singaporean_market](https://www.researchgate.net/publication/374153726_Regulation_VS_Deregulation_What_is_the_optimal_level_of_government_intervention_in_the_Singaporean_market)
+
 **DOI**: 10.13140/RG.2.2.10437.22241
 
 ### Mathematics: The foundation of the universe 
 
 Motivated to enhance student engagement with Math, I created this Math-themed colouring booklet to kindle a sense of curiosity about the vast world of Mathematics, amongst young learners.
 
-**Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
+**Download Link**: [Mathematics.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390719/Mathematics_.The.Foundation.of.the.Universe_Draft_2.pdf)
 
 ⏪ [Menu](#menu)
 
@@ -212,7 +218,7 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 
 A drive filled with A graded internal assesments, extended essays, past papers, notes, and sample college essays, compiled and written by myself, for struggling IBDP students.
 
-**Link**: [Srinji's Gift :)](https://drive.google.com/drive/folders/1KKp9rTbwYcvyuR-9E4dTBe4GQKhPts6J?usp=sharing) 
+**Google Drive Link**: [Srinji's Gift :)](https://drive.google.com/drive/folders/1KKp9rTbwYcvyuR-9E4dTBe4GQKhPts6J?usp=sharing) 
 
 ⏪ [Menu](#menu)
 
