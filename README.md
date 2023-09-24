@@ -141,19 +141,25 @@ To play around with the website, visit [https://srinji5141.github.io/MidnightMin
 
 Hoping to model optimization through multivariable calculus, I embarked on a personal journey of answering, how we can achieve work-life balance. Drawing from economics' concept of utility functions, this paper explores mathematical approaches to optimize the satisfaction of students with different study routines. Through data collection and mathematical modeling, I used derivatives, contour lines, and the Lagrange multiplier, to offer insights into managing our personal and professional lives.
 
-**Link**: [Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
+**Download Link**: [Cobb_Douglas_Function.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390671/sriram.SRINJANA.Extendedessay.May2021.pdf.-.HL.MAA.SCORED.A.pdf)
+**Research Gate Link**: [https://www.researchgate.net/publication/374153474_Cobb_Douglas_Function_Optimising_student_happiness_based_on_play_time_and_study_time](https://www.researchgate.net/publication/374153474_Cobb_Douglas_Function_Optimising_student_happiness_based_on_play_time_and_study_time)
+**DOI**: 10.13140/RG.2.2.36022.47688
   
 ### Queueing Theory: Optimising wait times at **boba stores**
 
 Motivated by my love for boba, I decided to use probability and statistics to enhance the boba store experience. Through using the M/M/1 model from queueing theory, a type of stochastic process, this paper aims to answer the question: can Mathematics expedite wait times at boba stores?
 
-**Link**: [Queueing_Theory.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390672/sriram.SRINJANA.MAAHL.IA.Mathexploration.May2021.pdf)
+**Download Link**: [Queueing_Theory.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390672/sriram.SRINJANA.MAAHL.IA.Mathexploration.May2021.pdf)
+**Research Gate Link:** [https://www.researchgate.net/publication/374153587_Queueing_Theory_Optimising_wait_times_at_boba_stores](https://www.researchgate.net/publication/374153587_Queueing_Theory_Optimising_wait_times_at_boba_stores)
+**DOI**: 10.13140/RG.2.2.29311.59042
 
 ### Regulation VS Deregulation: What is the optimal level of government intervention, in the Singaporean market?
 
 Inspired by John Komlos' philosophy of humanistic capitalism, my partner and I explored the intricacies of protecting Singapore's competition and consumers. In an age of digitsation and globalisation, this paper uncovers potential threats and proposes a three-pronged solution of monitoring, consultation, and regulation. Through case studies, we underscore the need for diligent oversight within Singapore's unique policy framework, which harmonizes state and market efforts.
 
-**Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
+**Download Link**: [Regulation_VS_Deregulation.pdf](https://github.com/srinji5141/srinji5141.github.io/files/12390688/1692363990902.pdf)
+**Research Gate Link**: [https://www.researchgate.net/publication/374153726_Regulation_VS_Deregulation_What_is_the_optimal_level_of_government_intervention_in_the_Singaporean_market](https://www.researchgate.net/publication/374153726_Regulation_VS_Deregulation_What_is_the_optimal_level_of_government_intervention_in_the_Singaporean_market)
+**DOI**: 10.13140/RG.2.2.10437.22241
 
 ### Mathematics: The foundation of the universe 
 
