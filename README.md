@@ -234,7 +234,7 @@ A drive filled with A graded internal assesments, extended essays, past papers, 
 
 ⏪ [Menu](#menu)
 
-## Connect with Me 👩🏽‍🎤🎤
+## Connect with Me ☎️
 
 Feel free to contact me via [E-mail](srinjana.sriram@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/srinjana-sriram/).
 
