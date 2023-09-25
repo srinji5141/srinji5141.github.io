@@ -36,8 +36,7 @@ For the complete code, visit [https://github.com/srinji5141/EchoGreet/blob/main/
 For the complete circuit design, visit [https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md](https://github.com/srinji5141/EchoGreet-UCLA-MakerSpace/blob/main/README.md)
 
 **Demo**
-
-https://github.com/srinji5141/srinji5141.github.io/assets/105142919/d35d370d-24a5-40c1-9f54-dfedd56077db
+![VIDEO-2023-05-27-16-21-38](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/c73bb2cb-1b19-49f2-aac2-c61579e6172a)
 
 ### Project 2: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
 
