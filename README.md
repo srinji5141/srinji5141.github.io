@@ -175,7 +175,7 @@ Motivated to enhance student engagement with Math, I created this Math-themed co
 
 ⏪ [Menu](#menu)
 
-## Hobbies 👩🏽‍🎨🖌️
+## Hobbies 👩🏽‍🎤🎤
 
 🎨 Growing up, I did a lot of art which I like to post about, from time to time, on my [WordPress](https://srinjana.wordpress.com/author/srinjana/).
 
