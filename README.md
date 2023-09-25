@@ -175,6 +175,18 @@ Motivated to enhance student engagement with Math, I created this Math-themed co
 
 ⏪ [Menu](#menu)
 
+## Hobbies 👩🏽‍🎨🖌️
+
+🎨 Growing up, I did a lot of art which I like to post about, from time to time, on my [WordPress](https://srinjana.wordpress.com/author/srinjana/).
+
+<a href="https://ibb.co/qDhk78G"><img src="https://i.ibb.co/qDhk78G/Screenshot-2023-08-20-at-6-29-57-PM.png" alt="Screenshot-2023-08-20-at-6-29-57-PM" border="0"></a> <a href="https://ibb.co/MpjYBcd"><img src="https://i.ibb.co/MpjYBcd/Screenshot-2023-08-20-at-6-29-22-PM.png" alt="Screenshot-2023-08-20-at-6-29-22-PM" border="0"></a> <a href="https://ibb.co/nzP08L3"><img src="https://i.ibb.co/nzP08L3/Screenshot-2023-08-20-at-6-29-31-PM.png" alt="Screenshot-2023-08-20-at-6-29-31-PM" border="0"></a> <a href="https://ibb.co/rmdQqNG"><img src="https://i.ibb.co/rmdQqNG/Screenshot-2023-08-20-at-6-29-44-PM.png" alt="Screenshot-2023-08-20-at-6-29-44-PM" border="0"></a>
+
+💅🏽 Nowadays, I don't have as much time to paint on canvas, so I try to paint my nails instead!
+
+<a href="https://ibb.co/9syDSgz"><img src="https://i.ibb.co/9syDSgz/IMG-6081.jpg" alt="IMG-6081" border="0"></a> <a href="https://ibb.co/y0MbZpt"><img src="https://i.ibb.co/y0MbZpt/IMG-6082.jpg" alt="IMG-6082" border="0"></a> <a href="https://ibb.co/bHFRRwt"><img src="https://i.ibb.co/bHFRRwt/IMG-6083.jpg" alt="IMG-6083" border="0"></a> <a href="https://ibb.co/xhkVC9M"><img src="https://i.ibb.co/xhkVC9M/IMG-6084.jpg" alt="IMG-6084" border="0"></a>
+
+⏪ [Menu](#menu)
+
 ## Pitch Decks and Presentations 👩🏽‍🎤🎤
 
 ### Amazon Web Services Innovation Challenge Final Presentation
@@ -219,18 +231,6 @@ As part of the BruinLabs summer program, my friends and I collaborated on SWAP: 
 A drive filled with A graded internal assesments, extended essays, past papers, notes, and sample college essays, compiled and written by myself, for struggling IBDP students.
 
 **Google Drive Link**: [Srinji's Gift :)](https://drive.google.com/drive/folders/1KKp9rTbwYcvyuR-9E4dTBe4GQKhPts6J?usp=sharing) 
-
-⏪ [Menu](#menu)
-
-## Hobbies 👩🏽‍🎨🖌️
-
-🎨 Growing up, I did a lot of art which I like to post about, from time to time, on my [WordPress](https://srinjana.wordpress.com/author/srinjana/).
-
-<a href="https://ibb.co/qDhk78G"><img src="https://i.ibb.co/qDhk78G/Screenshot-2023-08-20-at-6-29-57-PM.png" alt="Screenshot-2023-08-20-at-6-29-57-PM" border="0"></a> <a href="https://ibb.co/MpjYBcd"><img src="https://i.ibb.co/MpjYBcd/Screenshot-2023-08-20-at-6-29-22-PM.png" alt="Screenshot-2023-08-20-at-6-29-22-PM" border="0"></a> <a href="https://ibb.co/nzP08L3"><img src="https://i.ibb.co/nzP08L3/Screenshot-2023-08-20-at-6-29-31-PM.png" alt="Screenshot-2023-08-20-at-6-29-31-PM" border="0"></a> <a href="https://ibb.co/rmdQqNG"><img src="https://i.ibb.co/rmdQqNG/Screenshot-2023-08-20-at-6-29-44-PM.png" alt="Screenshot-2023-08-20-at-6-29-44-PM" border="0"></a>
-
-💅🏽 Nowadays, I don't have as much time to paint on canvas, so I try to paint my nails instead!
-
-<a href="https://ibb.co/9syDSgz"><img src="https://i.ibb.co/9syDSgz/IMG-6081.jpg" alt="IMG-6081" border="0"></a> <a href="https://ibb.co/y0MbZpt"><img src="https://i.ibb.co/y0MbZpt/IMG-6082.jpg" alt="IMG-6082" border="0"></a> <a href="https://ibb.co/bHFRRwt"><img src="https://i.ibb.co/bHFRRwt/IMG-6083.jpg" alt="IMG-6083" border="0"></a> <a href="https://ibb.co/xhkVC9M"><img src="https://i.ibb.co/xhkVC9M/IMG-6084.jpg" alt="IMG-6084" border="0"></a>
 
 ⏪ [Menu](#menu)
 
