@@ -179,7 +179,7 @@ Motivated to enhance student engagement with Math, I created this Math-themed co
 
 ## Pitch Decks and Presentations 👩🏽‍🎤🎤
 
-### Amazon Web Services Innovation Challenge Final Presentation
+### Slalom Build Competition Final Presentation
 Won 1st Place
 
 As part of the Data Rangers team, for the AWS Innovation Challenge, I was able to develop a data-driven gamified social media platform for the LA 2028 Olympics. Our solution aimed to address declining viewership by engaging users in daily challenges, real-time trivia, and community leaderboards.
