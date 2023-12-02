@@ -17,7 +17,7 @@ Hi there 👋🏽 My name is Srinjana Sriram and I'm an undergraduate Math/CS st
 
 ## Projects 👩🏽‍💻📟
 
-### Project 1: EchoGreet, UCLA MakerSpace
+### Project 1: EchoGreet
 
 **Description**
 
@@ -41,7 +41,7 @@ For the complete circuit design, visit [https://github.com/srinji5141/EchoGreet-
 
 ![VIDEO-2023-05-27-16-21-38](https://github.com/srinji5141/srinji5141.github.io/assets/105142919/c73bb2cb-1b19-49f2-aac2-c61579e6172a)
 
-### Project 2: American Bar Association Free Legal Answers User Records EDA, ASA DataFest 2023
+### Project 2: American Bar Association EDA, ASADataFest 2023
 
 **Description**
 
@@ -81,7 +81,7 @@ For the complete code snippet, visit [https://github.com/srinji5141/SentiBot-LAH
 
 To watch a full demonstration of SentiBot, visit [https://devpost.com/software/sentibot-un7qmy](https://devpost.com/software/sentibot-un7qmy)
 
-### Project 4: Professional Contacts Management Program
+### Project 4: ConnectForce 
 
 **Description**
 
@@ -109,7 +109,7 @@ To look into international developmental metrics, my partner and I explored [Kag
 
 **Notebook Link**: [https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing](https://colab.research.google.com/drive/1gTCRITuahCMoxXAWANOLqniY-mNxbIZs?usp=sharing)
 
-### Project 6: MidnightMindfulness.com
+### Project 6: MidnightMindfulness
 
 **Description**
 
